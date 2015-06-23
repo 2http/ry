@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     ry (0.1.0)
-      methadone-rehab (~> 1.9.1)
+      methadone-rehab (~> 1.9.2)
 
 GEM
   remote: https://rubygems.org/
@@ -27,7 +27,7 @@ GEM
     ffi (1.9.8)
     gherkin (2.12.2)
       multi_json (~> 1.3)
-    methadone-rehab (1.9.1)
+    methadone-rehab (1.9.2)
       bundler
     multi_json (1.11.1)
     multi_test (0.1.2)

@@ -34,5 +34,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency('test-unit')
   spec.add_development_dependency('rspec', '~> 3')
 
-  spec.add_dependency('methadone-rehab', '~> 1.9.1')
+  spec.add_dependency('methadone-rehab', '~> 1.9.2')
 end
