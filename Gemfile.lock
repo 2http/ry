@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ry (0.1.0)
+    ry (0.0.1)
       methadone-rehab (~> 1.9.2)
 
 GEM
@@ -54,10 +54,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  aruba
+  aruba (~> 0.6)
   bundler (~> 1.10)
-  rake
-  rdoc
+  rake (~> 10.4)
+  rdoc (~> 4.2)
   rspec (~> 3)
   ry!
   test-unit
